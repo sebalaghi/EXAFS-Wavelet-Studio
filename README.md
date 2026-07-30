@@ -8,8 +8,8 @@ Cauchy transforms, publication-quality plotting, and coefficient export.
 
 ![EXAFS Wavelet Studio interface](GUI_preview.png)
 
-Scientific concept and interface: **Dr. Esmael Balaghi**  
-Copyright 2026 Dr. Esmael Balaghi
+Scientific concept and interface: **SEB**  
+Copyright 2026 SEB
 
 ## Fast start in PyCharm
 
