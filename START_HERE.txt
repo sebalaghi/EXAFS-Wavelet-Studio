@@ -1,0 +1,30 @@
+EXAFS WAVELET STUDIO 1.0.0
+==========================
+
+Scientific concept and interface: Dr. Esmael Balaghi
+Copyright 2026 Dr. Esmael Balaghi
+
+EASIEST OPTION
+--------------
+Double-click EXAFS_Wavelet_Studio.exe. It needs no Python installation.
+
+The program opens with demonstration data and immediately creates a Morlet map.
+Use the scrollbar on the left to reach all settings. Hover over any blue ? for a
+plain-language explanation, or click it to keep the explanation open.
+
+RUNNING THE SOURCE IN PYCHARM
+-----------------------------
+1. Open this folder as a project.
+2. Use Python 3.10 or newer.
+3. Run: python -m pip install -r requirements.txt
+4. Run xafs_wavelet_studio.py
+
+IMPORTANT DK NOTE
+-----------------
+Keep "Auto dk from data" enabled unless you intentionally need a fixed sampling
+step. Manual 0.01 A^-1 is provided to reproduce the legacy script; it is not a
+universal physical constant.
+
+Read README.md for input formats, parameter guidance, exports, citations, and
+scientific limitations.
+
