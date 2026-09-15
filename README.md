@@ -6,8 +6,6 @@ Cauchy transforms, publication-quality plotting, and coefficient export.
 
 [**Download the latest standalone Windows EXE**](https://github.com/sebalaghi/EXAFS-Wavelet-Studio/releases/latest/download/EXAFS_Wavelet_Studio.exe)
 
-![EXAFS Wavelet Studio interface](GUI_preview.png)
-
 Scientific concept and interface: **Esmael Balaghi**  
 Copyright 2026 Esmael Balaghi
 
